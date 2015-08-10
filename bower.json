@@ -1,0 +1,22 @@
+{
+  "name": "fluxTodoMVC",
+  "version": "0.0.1",
+  "homepage": "https://github.com/GuoYongfeng/fluxTodoMVC",
+  "authors": [
+    "guoyongfeng <296512521@qq.com>"
+  ],
+  "description": "flux",
+  "keywords": [
+    "flux",
+    "react"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/js/vendor",
+    "test",
+    "tests"
+  ]
+}

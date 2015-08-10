@@ -1,0 +1,38 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "flux react MVC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuoYongfeng/fluxTodoMVC.git"
+  },
+  "keywords": [
+    "flux"
+  ],
+  "author": "GuoYongfeng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuoYongfeng/fluxTodoMVC/issues"
+  },
+  "homepage": "https://github.com/GuoYongfeng/fluxTodoMVC#readme",
+  "dependencies": {
+    "classnames": "^2.1.3",
+    "flux": "^2.0.3",
+    "keymirror": "^0.1.1",
+    "object-assign": "^3.0.0",
+    "react": "^0.13.3",
+    "reactify": "^1.1.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.8.2",
+    "gulp": "^3.9.0",
+    "gulp-browserify": "^0.5.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-connect": "^2.2.0",
+    "gulp-less": "^3.0.3"
+  }
+}
